@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://your-image-link-here)
+![Profile Banner](https://github.com/aniketdangatwork/aniketdangatwork/blob/main/github-header-image.png)
 
 Hello there! I'm a passionate MEAN Fullstack Developer, currently working as a Digital Specialist Engineer at Infosys, Pune. I'm excited to share my coding journey and projects with you through this GitHub profile.
 
@@ -10,11 +10,10 @@ Hello there! I'm a passionate MEAN Fullstack Developer, currently working as a D
 - 💻 Experienced in various programming languages including C, C++, C#, Java, Javascript, Python, and Ruby.
 - ⚙️ Proficient in MEAN stack development (MongoDB, Express.js, Angular, Node.js).
 - 🌐 Skilled in frontend development using HTML, CSS, and Bootstrap.
-- 🚀 Familiar with popular frameworks like Angular, React, and Ruby on Rails.
+- 🚀 Familiar with popular frameworks like Angular, .NET, React, and Ruby on Rails.
 - 📐 Experienced with BDD (Behavior-Driven Development) using Cucumber, Selenium, and RSpec for testing.
-- 🔧 Worked with the .NET framework for building robust applications.
 
-## Projects
+<!-- ## Projects
 
 Here are a few highlighted projects I've worked on:
 
@@ -26,7 +25,7 @@ Here are a few highlighted projects I've worked on:
 2. **Project Name**
 - Description: Briefly describe the project and its purpose.
 - Technologies used: List the technologies/languages/frameworks utilized.
-- GitHub Repository: Provide a link to the GitHub repository if available.
+- GitHub Repository: Provide a link to the GitHub repository if available. -->
 
 Feel free to explore my repositories for more projects and code samples!
 
@@ -43,7 +42,7 @@ Feel free to explore my repositories for more projects and code samples!
 
 I'm always eager to connect with fellow developers and collaborate on exciting projects. You can reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/aniketdangat)
+- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/aniketdangat/)
 - Email: aniketdangat.work@gmail.com
 
 Feel free to drop me a message if you have any questions, project proposals, or just want to say hi!
